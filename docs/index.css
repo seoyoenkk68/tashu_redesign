@@ -1,0 +1,141 @@
+html,
+body {
+  width: 1920px;
+  height: 12014px;
+  position: relative;
+  overflow-x: hidden;
+}
+
+.bg {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -10;
+}
+
+.img-bg {
+  display: block
+}
+
+.intro,
+.overviwe {
+  width: 1920px;
+  height: 1149px;
+  position: relative;
+}
+
+.intro .img_1 {
+  position: absolute;
+  bottom: 120px;
+  right: 0;
+}
+
+.overviwe img {
+  position: absolute;
+}
+
+.overviwe .img_2 {
+  left: 400px;
+  bottom: 250px;
+}
+
+.overviwe .img_3 {
+  bottom: 250px;
+  right: 270px;
+}
+
+.logotype {
+  width: 1920px;
+  height: 938px;
+}
+
+.flowchart {
+  width: 1920px;
+  height: 883px;
+}
+
+.wireframe {
+  width: 1920px;
+  height: 1492px;
+  position: relative;
+}
+
+.wireframe .img_4 {
+  position: absolute;
+  bottom: 80px;
+  left: 300px;
+}
+
+.rent {
+  width: 1920px;
+  height: 1280px;
+  position: relative;
+}
+
+
+.rent .img_5 {
+  position: absolute;
+  top: 50px;
+  left: 130px;
+}
+
+.rent .img_6 {
+  position: absolute;
+  top: 150px;
+  left: 561px;
+}
+
+.rent .img_7 {
+  position: absolute;
+  top: 250px;
+  left: 992px;
+}
+
+.rent .img_8 {
+  position: absolute;
+  top: 350px;
+  left: 1423px;
+}
+
+.course {
+  width: 1920px;
+  height: 1920px;
+  position: relative;
+}
+
+.course .img_9-12 {
+  position: absolute;
+  top: -85px;
+  right: 0;
+}
+
+.ride {
+  width: 1920px;
+  height: 1120px;
+  position: relative;
+}
+
+.ride .img_13-16 {
+  position: absolute;
+  bottom: -25px;
+  left: 85px;
+}
+.social {
+  width: 1920px;
+  height: 1500px;
+  position: relative;
+}
+
+.social .img_17 {
+  position: absolute;
+  left: 300px;
+  bottom: 100px;
+}
+
+.social .img_18 {
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+}
