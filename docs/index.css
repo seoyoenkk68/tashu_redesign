@@ -1,7 +1,7 @@
 html,
 body {
   width: 1920px;
-  height: 12014px;
+  height: 11904px;
   position: relative;
   overflow-x: hidden;
 }
@@ -19,6 +19,10 @@ body {
   display: block
 }
 
+.box {
+  /* border: 1px solid blueviolet; */
+}
+
 .intro,
 .overviwe {
   width: 1920px;
@@ -28,7 +32,7 @@ body {
 
 .intro .img_1 {
   position: absolute;
-  bottom: 120px;
+  bottom: 220px;
   right: 0;
 }
 
@@ -38,11 +42,11 @@ body {
 
 .overviwe .img_2 {
   left: 400px;
-  bottom: 250px;
+  bottom: 350px;
 }
 
 .overviwe .img_3 {
-  bottom: 250px;
+  bottom: 350px;
   right: 270px;
 }
 
@@ -64,7 +68,7 @@ body {
 
 .wireframe .img_4 {
   position: absolute;
-  bottom: 80px;
+  bottom: 240px;
   left: 300px;
 }
 
@@ -77,25 +81,25 @@ body {
 
 .rent .img_5 {
   position: absolute;
-  top: 50px;
+  top: -60px;
   left: 130px;
 }
 
 .rent .img_6 {
   position: absolute;
-  top: 150px;
+  top: 40px;
   left: 561px;
 }
 
 .rent .img_7 {
   position: absolute;
-  top: 250px;
+  top: 140px;
   left: 992px;
 }
 
 .rent .img_8 {
   position: absolute;
-  top: 350px;
+  top: 240px;
   left: 1423px;
 }
 
@@ -107,7 +111,7 @@ body {
 
 .course .img_9-12 {
   position: absolute;
-  top: -85px;
+  top: -230px;
   right: 0;
 }
 
@@ -119,7 +123,7 @@ body {
 
 .ride .img_13-16 {
   position: absolute;
-  bottom: -25px;
+  bottom: 65px;
   left: 85px;
 }
 .social {
@@ -131,11 +135,11 @@ body {
 .social .img_17 {
   position: absolute;
   left: 300px;
-  bottom: 100px;
+  bottom: 200px;
 }
 
 .social .img_18 {
   position: absolute;
   left: 500px;
-  bottom: 300px;
+  bottom: 400px;
 }
